@@ -63,7 +63,6 @@ def get_feedback(user_word, word):
 
         if user_letter == word_letter:
             check_1.append(user_letter)
-
         else:
             check_1.append('*')
 
